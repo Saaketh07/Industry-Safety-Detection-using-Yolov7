@@ -1,6 +1,8 @@
 # Industry-Safety-Detection-using-Yolov7
 
 
+ - [Data link](https://drive.google.com/file/d/1MWMK_1EE_HSBv75CsI9VVlSiLpvvz89m/view?usp=sharing)
+
 ## Git commands
 
 ```bash
