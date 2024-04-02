@@ -2,6 +2,21 @@
 
 
  - [Data link](https://drive.google.com/file/d/1MWMK_1EE_HSBv75CsI9VVlSiLpvvz89m/view?usp=sharing)
+- [Yolov7 Github repo link](https://github.com/WongKinYiu/yolov7)
+
+
+## Workflow
+
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline
+- app.py
+- Live mata
+
+
+
 
 ## Git commands
 
